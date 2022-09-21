@@ -1,13 +1,10 @@
 # Resume
 # Sai Rudh Reddy Velapatati
 
-## Current Status
-
----
-
-Student
-<br>Master of Science in Artificial Intelligence
-<br>Saint Louis University, MO
+##### **Current Status**<br>
+Student<br>
+Master of Science in Artificial Intelligence<br>
+Saint Louis University, MO
 
 ## Professional Summery:
 
@@ -32,20 +29,20 @@ Student
 ## Techinical Skills
 
 ---
+|                          |                                                                                                             |
+| :----------------------- | :---------------------------------------------------------------------------------------------------------- |
+| **Programing Languages** | Python, R, C, Cpp (oops), ~~Dart, Go, JS~~                                                                  |
+| **Operating System**     | Operating Systems Windows 7/8/10, UNIX/Linux                                                                |
+| **Web Technologies**     | HTML5, CSS3, JavaScript, JQuery, JSON,                                                                      |
+| **IDE’s**                | Microsoft Visual Studio and Code(main IDE), Spyder, Jupyter notebook(Google and AWS), Atom, Eclipse, Cloud9 |
+| **Databases**            | MySQL, PostgreSQL, SQL Server                                                                               |
+| **NoSQL Databases**      | MongoDB                                                                                                     |
+| **Version Control**      | Git, SVN                                                                                                    |
+| **UI Tools**             | Figma, Adobe XD and Photoshop                                                                               |
+| **Other tools**          | Pycharm, R studio, Anaconda, Tableau, Flutter                                                               |
+| **MS tools**             | Excel, PowerPoint, Access, Word                                                                             |
+| **Python Libraies**      | Numpy, Matplotlib, Pands, Beautiful Soup, Pygame, OpenCV, Tkinter                                           |
 
-|                          |     |                                                                                                             |
-| :----------------------- | :-- | :---------------------------------------------------------------------------------------------------------- |
-| **Programing Languages** |     | Python, R, C, Cpp (oops), ~~Dart, Go, JS~~                                                                  |
-| **Operating System**     |     | Operating Systems Windows 7/8/10, UNIX/Linux                                                                |
-| **Web Technologies**     |     | HTML5, CSS3, JavaScript, JQuery, JSON,                                                                      |
-| **IDE’s**                |     | Microsoft Visual Studio and Code(main IDE), Spyder, Jupyter notebook(Google and AWS), Atom, Eclipse, Cloud9 |
-| **Databases**            |     | MySQL, PostgreSQL, SQL Server                                                                               |
-| **NoSQL Databases**      |     | MongoDB                                                                                                     |
-| **Version Control**      |     | Git, SVN                                                                                                    |
-| **UI Tools**             |     | Figma, Adobe XD and Photoshop                                                                               |
-| **Other tools**          |     | Pycharm, R studio, Anaconda, Tableau, Flutter                                                               |
-| **MS tools**             |     | Excel, PowerPoint, Access, Word                                                                             |
-| **Python Libraies**      |     | Numpy, Matplotlib, Pands, Beautiful Soup, Pygame, OpenCV, Tkinter                                           |
 
 ## PROJECTS
 
