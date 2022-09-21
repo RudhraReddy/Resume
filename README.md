@@ -1,4 +1,3 @@
-# Resume
 # Sai Rudh Reddy Velapatati
 
 ##### **Current Status**<br>
